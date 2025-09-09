@@ -107,7 +107,7 @@ a{
 /* hero */
 
 .hero{
-    background-image: url(./images/img-2.jpeg);
+    background-image: url(images/img-2.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -128,11 +128,11 @@ a{
 
 @keyframes change {
     from{
-        background-image: url(./images/img-2.jpeg);
+        background-image: url(images/img-2.jpeg);
     }
 
     to{
-        background-image: url(./images/img-1.jpeg);
+        background-image: url(images/img-1.jpeg);
     }
 }
 
@@ -332,7 +332,7 @@ transform: scale(1) ;
 .time-work{
     padding-top: var(--padding-top);
     padding-bottom: var(--padding-button);
-    background-image: url(./images/img-1.jpeg);
+    background-image: url(images/img-1.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
