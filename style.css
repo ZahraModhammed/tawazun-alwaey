@@ -260,6 +260,10 @@ transform: scale(1) ;
 
 }
 
+.services  .box .card-item  .content .title-head{
+    margin-bottom: 17px;
+}
+
 .services .box .card-item  .content .texts{
     display: flex;
 }
